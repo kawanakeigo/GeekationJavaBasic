@@ -11,7 +11,6 @@ public class IfSwitch {
 		if (nibai ==0) {
 			System.out.println("２の倍数です。");
 			
-			
 		} else if (sanbai == 0) {
 			System.out.println("3の倍数です。");
 			
@@ -35,8 +34,9 @@ public class IfSwitch {
 			System.out.println("当てはまりません。");
 			break;
 		}
-		
 
 	}
 
 }
+
+
