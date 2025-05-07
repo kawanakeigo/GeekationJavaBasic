@@ -23,7 +23,6 @@ public class GeekIntroduction {
             return;
         }
 
-        // num1からnum2まで繰り返し処理
         for (int i = num1; i <= num2; i++) {
             if (i % 3 == 0 && i % 5 == 0) {
                 System.out.println(i + "は3の倍数かつ5の倍数です。");
