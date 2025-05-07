@@ -5,7 +5,6 @@ public class MethodPractice {
     public static void main(String[] args) {
         int a = 2;
         int b = 3;
-
         int result1 = add(a, b);
         int result2 = subtract(a, b);
         int result3 = multiply(a, b);
