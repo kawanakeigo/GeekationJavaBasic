@@ -10,7 +10,6 @@ public class MethodPractice {
         int result2 = subtract(a, b);
         int result3 = multiply(a, b);
         int result4 = divide(a, b);
-
         System.out.println("計算結果は" + result1 + "です。");
         System.out.println("計算結果は" + result2 + "です。");
         System.out.println("計算結果は" + result3 + "です。");
